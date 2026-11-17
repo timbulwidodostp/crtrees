@@ -1,3 +1,5 @@
-D 'mmwsmed': Causal mediation analysis using ratio-of-mediator-probability weighting with parametric or nonparametric weights Use mmwsmed With STATA 19
-F mmwsmed.ado
-F mmwsmed.sthlp
+D 'crtrees': Classification and Regression Trees and Random Forests Use crtrees With STATA 19
+F crtrees.ado
+F crtrees.sthlp
+F crtrees_p.ado
+F crtrees_p.sthlp
