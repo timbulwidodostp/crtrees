@@ -1,6 +1,8 @@
 # crtrees
 Classification and Regression Trees and Random Forests Use crtrees With STATA 19
 
+https://www.youtube.com/watch?v=TE2Gw9rTtsU
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
